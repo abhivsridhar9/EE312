@@ -1,0 +1,227 @@
+Joe has : 7S QD 2S 7D AS JH 2C 
+Jane has : QH 6C 8C 8S 2H 10D JC 
+Booked Cards
+7S 7D
+Booked Cards
+8C 8S
+Joe has : QD 2S AS JH 2C 
+Jane has : QH 6C 2H 10D JC 
+Joe has : QD 2S AS JH 2C 
+Jane has : QH 6C 2H 10D JC 
+Joe asks - Do you have a A
+Jane says No - Go Fish ! 
+Booked Cards
+QD QC
+Joe has : 2S AS JH 2C 
+Jane has : QH 6C 2H 10D JC 
+Jane asks - Do you have a 6
+Joe says No - Go Fish ! 
+Booked Cards
+6C 6S
+Joe has : 2S AS JH 2C 
+Jane has : QH 2H 10D JC 
+Joe has : 2S AS JH 2C 
+Jane has : QH 2H 10D JC 
+Joe asks - Do you have a 2
+Jane says - Yes. I have a 2
+Booked Cards
+2S 2C
+Joe has : AS JH 2H 
+Jane has : QH 10D JC 
+Joe asks - Do you have a 2
+Jane says No - Go Fish ! 
+Booked Cards
+AS AH
+Joe has : JH 2H 
+Jane has : QH 10D JC 
+Jane asks - Do you have a 10
+Joe says No - Go Fish ! 
+Booked Cards
+10D 10C
+Joe has : JH 2H 
+Jane has : QH JC 
+Joe has : JH 2H 
+Jane has : QH JC 
+Joe asks - Do you have a 2
+Jane says No - Go Fish ! 
+Jane asks - Do you have a Q
+Joe says No - Go Fish ! 
+Joe has : JH 2H 9D 
+Jane has : QH JC 3H 
+Joe asks - Do you have a 2
+Jane says No - Go Fish ! 
+Jane asks - Do you have a Q
+Joe says No - Go Fish ! 
+Joe has : JH 2H 9D 3D 
+Jane has : QH JC 3H KH 
+Joe asks - Do you have a 9
+Jane says No - Go Fish ! 
+Booked Cards
+9D 9C
+Joe has : JH 2H 3D 
+Jane has : QH JC 3H KH 
+Jane asks - Do you have a J
+Joe says - Yes. I have a J
+Booked Cards
+JC JH
+Joe has : 2H 3D 
+Jane has : QH 3H KH 
+Jane asks - Do you have a K
+Joe says No - Go Fish ! 
+Joe has : 2H 3D 
+Jane has : QH 3H KH AC 
+Joe asks - Do you have a 2
+Jane says No - Go Fish ! 
+Jane asks - Do you have a K
+Joe says No - Go Fish ! 
+Joe has : 2H 3D 5C 
+Jane has : QH 3H KH AC 2D 
+Joe asks - Do you have a 5
+Jane says No - Go Fish ! 
+Jane asks - Do you have a A
+Joe says No - Go Fish ! 
+Joe has : 2H 3D 5C 9S 
+Jane has : QH 3H KH AC 2D 7C 
+Joe asks - Do you have a 2
+Jane says - Yes. I have a 2
+Booked Cards
+2H 2D
+Joe has : 3D 5C 9S 
+Jane has : QH 3H KH AC 7C 
+Joe asks - Do you have a 5
+Jane says No - Go Fish ! 
+Booked Cards
+3D 3C
+Joe has : 5C 9S 
+Jane has : QH 3H KH AC 7C 
+Jane asks - Do you have a Q
+Joe says No - Go Fish ! 
+Joe has : 5C 9S 
+Jane has : QH 3H KH AC 7C 8D 
+Joe asks - Do you have a 5
+Jane says No - Go Fish ! 
+Jane asks - Do you have a K
+Joe says No - Go Fish ! 
+Booked Cards
+8D 8H
+Joe has : 5C 9S AD 
+Jane has : QH 3H KH AC 7C 
+Joe has : 5C 9S AD 
+Jane has : QH 3H KH AC 7C 
+Joe asks - Do you have a 9
+Jane says No - Go Fish ! 
+Booked Cards
+9S 9H
+Joe has : 5C AD 
+Jane has : QH 3H KH AC 7C 
+Jane asks - Do you have a K
+Joe says No - Go Fish ! 
+Joe has : 5C AD 
+Jane has : QH 3H KH AC 7C JD 
+Joe asks - Do you have a A
+Jane says - Yes. I have a A
+Booked Cards
+AD AC
+Joe has : 5C 
+Jane has : QH 3H KH 7C JD 
+Joe asks - Do you have a 5
+Jane says No - Go Fish ! 
+Booked Cards
+5C 5D
+Joe has : 
+Jane has : QH 3H KH 7C JD 
+Jane asks - Do you have a 3
+Joe says No - Go Fish ! 
+Booked Cards
+QH QS
+Joe has : 
+Jane has : 3H KH 7C JD 
+Joe has : 
+Jane has : 3H KH 7C JD 
+Jane says No - Go Fish ! 
+Jane asks - Do you have a 3
+Joe says No - Go Fish ! 
+Booked Cards
+KH KD
+Joe has : 10H 
+Jane has : 3H 7C JD 
+Joe has : 10H 
+Jane has : 3H 7C JD 
+Joe asks - Do you have a 10
+Jane says No - Go Fish ! 
+Booked Cards
+10H 10S
+Joe has : 
+Jane has : 3H 7C JD 
+Jane asks - Do you have a 7
+Joe says No - Go Fish ! 
+Joe has : 
+Jane has : 3H 7C JD 4C 
+Jane says No - Go Fish ! 
+Jane asks - Do you have a J
+Joe says No - Go Fish ! 
+Booked Cards
+3H 3S
+Joe has : 4S 
+Jane has : 7C JD 4C 
+Joe has : 4S 
+Jane has : 7C JD 4C 
+Joe asks - Do you have a 4
+Jane says - Yes. I have a 4
+Booked Cards
+4S 4C
+Joe has : 
+Jane has : 7C JD 
+Jane says No - Go Fish ! 
+Jane asks - Do you have a 7
+Joe says No - Go Fish ! 
+Joe has : JS 
+Jane has : 7C JD 4D 
+Joe asks - Do you have a J
+Jane says - Yes. I have a J
+Booked Cards
+JS JD
+Joe has : 
+Jane has : 7C 4D 
+Jane says No - Go Fish ! 
+Jane asks - Do you have a 7
+Joe says No - Go Fish ! 
+Booked Cards
+4D 4H
+Joe has : 6D 
+Jane has : 7C 
+Joe has : 6D 
+Jane has : 7C 
+Joe asks - Do you have a 6
+Jane says No - Go Fish ! 
+Jane asks - Do you have a 7
+Joe says No - Go Fish ! 
+Booked Cards
+7C 7H
+Joe has : 6D KC 
+Jane has : 
+Joe has : 6D KC 
+Jane has : 
+Joe asks - Do you have a K
+Jane says No - Go Fish ! 
+Booked Cards
+6D 6H
+Joe has : KC 
+Jane has : 
+Joe says No - Go Fish ! 
+Joe has : KC 
+Jane has : 5H 
+Joe asks - Do you have a K
+Jane says No - Go Fish ! 
+Booked Cards
+KC KS
+Joe has : 
+Jane has : 5H 
+Jane asks - Do you have a 5
+Joe says No - Go Fish ! 
+Booked Cards
+5H 5S
+Joe has : 
+Jane has : 
+Joe is the Winner with 15 pairs
+Jane is the Loser with 11 pairs
